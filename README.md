@@ -12,7 +12,7 @@
 
 My github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=aura_dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagodays&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working at Archdaily 
