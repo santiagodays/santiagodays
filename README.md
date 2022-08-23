@@ -8,15 +8,6 @@
 ### Hi, I'm Santiago! &nbsp;&nbsp;<sup>👾 &#12299; Always looking for new stuff to learn about computer science.</sup>
 
 ----
-### My GitHub Stats ###
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagodays&theme=aura_dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagodays&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-----
 ### Technologies ###
 <br>
 
