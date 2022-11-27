@@ -1,8 +1,7 @@
 # Santiago Diaz ~ Software Developer #
 
-- 🔭 I’m currently working at Archdaily 
-- 🌱 I’m currently studying to get:  AWS developer certificate & Python Associate certificate
-- 👯 I’m looking to collaborate on Python projects
+- 🔭 I’m currently working at Daaily Platforms
+- 🌱 Learning about Node.js / Express.js / GraphQL
 - 📫 How to reach me: dev@diazsantiago.com
 
 ### Hi, I'm Santiago! &nbsp;&nbsp;<sup>👾 &#12299; Always looking for new stuff to learn about computer science.</sup>
